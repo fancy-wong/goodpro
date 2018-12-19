@@ -6,7 +6,7 @@ echo(strval(microtime(true)*10000));exit;
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>上传</title>
+<title>sss</title>
 </head>
 <body>
 <h1>轮播图设置</h1>
